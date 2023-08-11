@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olgun Özoktaş</h1>
-<h3 align="center">A passionate software engineer from North Cyprus</h3>
+<h3 align="center">A passionate Senior software engineer from North Cyprus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgunozoktas&label=Profile%20views&color=0e75b6&style=flat" alt="olgunozoktas" /> </p>
 
