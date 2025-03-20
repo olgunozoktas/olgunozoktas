@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Olgun+%C3%96zokta%C5%9F;8%2B+Years+Full-Stack+Expert;PHP+%7C+Laravel+%7C+React+Master;100%25+Job+Success+Rate" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <a href="https://linkedin.com/in/olgunozoktas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
