@@ -34,7 +34,6 @@ Currently pursuing a PhD focused on blockchain systems, I bring academic rigor t
 - 🔭 I'm currently working as a **Senior Software Engineer at Turkcell Northern Cyprus**
 - 🌱 I'm pursuing a **PhD in Computer Engineering**
 - 💼 I also work on freelance projects through **Upwork** with **100% Job Success**
-- 📝 I regularly write articles on [https://olgunozoktas.com/blog](https://olgunozoktas.com/blog)
 - 📫 How to reach me: **olgun_ozoktas@hotmail.com**
 - 📄 Know about my experiences: [View My Portfolio](https://olgunozoktas.com)
 
@@ -194,13 +193,6 @@ Comprehensive CRM system for university administration, student management, and 
     </tr>
   </table>
 </div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The Future of Blockchain in Enterprise Systems](https://olgunozoktas.com/blog/blockchain-enterprise-systems)
-- [10 Laravel Best Practices Every Developer Should Know](https://olgunozoktas.com/blog/laravel-best-practices)
-- [How AI is Revolutionizing Web Development](https://olgunozoktas.com/blog/ai-web-development)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Collaborate
 
