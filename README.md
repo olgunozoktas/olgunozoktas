@@ -24,7 +24,7 @@
 
 **⭐ 8+ Years Full-Stack Expert | 100% Job Success | PHP, Laravel, React Master**
 
-Delivering High-ROI, Scalable Web Solutions | Stop overpaying for mediocre code - invest in excellence within budget!
+Delivering High-ROI, Scalable Web Solutions
 
 I'm a Full-Stack Software Engineer with 8+ years of experience designing and leading development of scalable web applications. I specialize in crafting robust, scalable, and efficient web applications that drive business growth. My expertise spans the entire web development stack, with a focus on cutting-edge technologies and best practices.
 
