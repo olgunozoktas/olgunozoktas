@@ -42,12 +42,11 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <img align="right" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 #### 🧑‍💻 At a Glance
