@@ -1,20 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Olgun%20%C3%96zokta%C5%9F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20%C2%B7%20Ph.D.%20Candidate%20%C2%B7%20Indie%20Builder&descSize=16&descAlignY=52&descColor=8b949e" width="100%" />
-
 <div align="center">
 
-<br/>
-
-```
-I build tools that developers actually use.
-Currently shipping FindUtils — 334+ free browser-based utilities.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Hey%2C+I'm+Olgun+%C3%96zokta%C5%9F+%F0%9F%91%8B" alt="Hey, I'm Olgun Ozoktas" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/olgunozoktas.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olgunozoktas.com)
+**Senior Software Engineer** · **Ph.D. Candidate** · **Indie Builder**
+
+I build tools that developers actually use. Currently shipping [FindUtils](https://findutils.com) — 334+ free browser-based utilities used by thousands of developers daily.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/olgunozoktas.com-111?style=for-the-badge&logo=safari&logoColor=white)](https://olgunozoktas.com)
+[![AI Assistant](https://img.shields.io/badge/AI_Assistant-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://olgunozoktas.com/assistant)
 [![FindUtils](https://img.shields.io/badge/findutils.com-1f6feb?style=for-the-badge&logo=astro&logoColor=white)](https://findutils.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olgunozoktas)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/olgunozoktas)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/olgunozoktas)
+[![Upwork](https://img.shields.io/badge/Upwork_%E2%80%93_100%25_Job_Success-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/olgunozoktas)
+[![Email](https://img.shields.io/badge/olgun__ozoktas@hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:olgun_ozoktas@hotmail.com)
 
 </div>
 
