@@ -31,7 +31,7 @@ I build tools that developers actually use. Currently shipping [FindUtils](https
 334+ free online tools for developers, designers, and professionals. Everything runs client-side — no accounts, no ads, no data collection.
 
 - **[Tool API](https://findutils.com/api/docs/)** — 50 tools as a REST API at `api.findutils.com`
-- **[MCP Server](https://findutils.com/mcp/)** — 52 tools for Claude, ChatGPT & any MCP client ([GitHub](https://github.com/olgunozoktas/findutils-mcp))
+- **[MCP Server](https://findutils.com/mcp/)** — 52 tools for Claude, ChatGPT & any MCP client
 - **[Desktop App](https://findutils.com)** — Native desktop app built with Tauri
 - **15 categories** — Dev tools, converters, generators, calculators, security, SEO & more
 
