@@ -1,20 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Olgun%20%C3%96zokta%C5%9F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20%C2%B7%20Ph.D.%20Candidate%20%C2%B7%20Indie%20Builder&descSize=16&descAlignY=52&descColor=8b949e" width="100%" />
+
 <div align="center">
 
-# Olgun Ozoktas
+<br/>
 
-**Senior Software Engineer** · **Ph.D. Candidate** · **Indie Builder**
+```
+I build tools that developers actually use.
+Currently shipping FindUtils — 334+ free browser-based utilities.
+```
 
-I build tools that developers actually use. Currently shipping [FindUtils](https://findutils.com) — 334+ free browser-based utilities used by thousands of developers daily.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/olgunozoktas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](https://olgunozoktas.com)
-[![FindUtils](https://img.shields.io/badge/findutils.com-5A29E4?style=flat-square&logo=astro&logoColor=white)](https://findutils.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/olgunozoktas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:olgun_ozoktas@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/olgunozoktas.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olgunozoktas.com)
+[![FindUtils](https://img.shields.io/badge/findutils.com-1f6feb?style=for-the-badge&logo=astro&logoColor=white)](https://findutils.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olgunozoktas)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/olgunozoktas)
 
 </div>
-
----
 
 ### What I'm building
 
