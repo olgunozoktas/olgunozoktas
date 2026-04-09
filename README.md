@@ -33,7 +33,6 @@
 
 - [Tool API](https://findutils.com/api/docs/) — 50 tools as a REST API at `api.findutils.com`
 - [MCP Server](https://findutils.com/mcp/) — 52 tools for Claude, ChatGPT & any MCP client
-- [Desktop App](https://findutils.com) — Native desktop app built with Tauri
 - 15 categories — Dev tools, converters, generators, calculators, security, SEO & more
 
 > `Astro 6 · React 19 · TypeScript · Tailwind CSS 4 · Cloudflare Workers`
