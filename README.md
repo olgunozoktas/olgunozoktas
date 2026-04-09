@@ -2,13 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Hey%2C+I'm+Olgun+%C3%96zokta%C5%9F+%F0%9F%91%8B" alt="Hey, I'm Olgun Ozoktas" />
 
-<br/>
-
 **Senior Software Engineer** · **Ph.D. Candidate** · **Indie Builder**
 
 I build tools that developers actually use. Currently shipping [FindUtils](https://findutils.com) — 334+ free browser-based utilities used by thousands of developers daily.
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/olgunozoktas.com-111?style=for-the-badge&logo=safari&logoColor=white)](https://olgunozoktas.com)
 [![AI Assistant](https://img.shields.io/badge/AI_Assistant-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://olgunozoktas.com/assistant)
@@ -20,80 +16,58 @@ I build tools that developers actually use. Currently shipping [FindUtils](https
 
 </div>
 
-### What I'm building
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I'm Building
 
-#### [FindUtils](https://findutils.com) — Developer Tools Platform
+### [FindUtils](https://findutils.com) — Developer Tools Platform
 
 334+ free online tools for developers, designers, and professionals. Everything runs client-side — no accounts, no ads, no data collection.
 
-- **[Tool API](https://findutils.com/api/docs/)** — 50 tools as a REST API at `api.findutils.com`
-- **[MCP Server](https://findutils.com/mcp/)** — 52 tools for Claude, ChatGPT & any MCP client
-- **[Desktop App](https://findutils.com)** — Native desktop app built with Tauri
-- **15 categories** — Dev tools, converters, generators, calculators, security, SEO & more
+- [Tool API](https://findutils.com/api/docs/) — 50 tools as a REST API at `api.findutils.com`
+- [MCP Server](https://findutils.com/mcp/) — 52 tools for Claude, ChatGPT & any MCP client
+- [Desktop App](https://findutils.com) — Native desktop app built with Tauri
+- 15 categories — Dev tools, converters, generators, calculators, security, SEO & more
 
-`Astro 6 · React 19 · TypeScript · Tailwind CSS 4 · Cloudflare Workers`
+> `Astro 6 · React 19 · TypeScript · Tailwind CSS 4 · Cloudflare Workers`
 
-</td>
-<td width="50%" valign="top">
+### [AI Assistant](https://olgunozoktas.com/assistant) — Personal Portfolio AI
 
-#### [AI Assistant](https://olgunozoktas.com/assistant) — Personal Portfolio AI
-
-An AI-powered assistant on my portfolio site that knows about my work, projects, and experience. Ask it anything about what I build.
+An AI-powered assistant on my portfolio site that knows about my work, projects, and experience.
 
 - Chat-based interface at [olgunozoktas.com/assistant](https://olgunozoktas.com/assistant)
 - Trained on my portfolio, projects, and engineering background
 - Built with modern AI APIs and a custom knowledge base
 
-[Try it out &rarr;](https://olgunozoktas.com/assistant)
-
-</td>
-</tr>
-</table>
-
 ---
 
-### Past projects
+## Past Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Docujar — PDF Engagement Platform
 
-#### Docujar — PDF Engagement Platform
-
-A platform for companies to send PDF documents and track engagement metrics including page visit times, heatmaps, and top-viewed pages.
+A platform for companies to send PDF documents and track engagement metrics.
 
 - Built an MVP with full PDF analytics and heatmap tracking
 - Designed a custom heatmap algorithm for granular user interactions
 - Integrated an AI chatbot via custom document training pipeline
 - Deployed on Ubuntu with Cloudflare R2 for storage
 
-`Laravel · React · Inertia.js · TailwindCSS · Python · FastAPI`
+> `Laravel · React · Inertia.js · TailwindCSS · Python · FastAPI`
 
-</td>
-<td width="50%" valign="top">
+### University CRM System
 
-#### University CRM System
-
-Comprehensive CRM for university administration, student management, and faculty coordination — serving 20,000+ users.
+Comprehensive CRM for university administration — serving 20,000+ users.
 
 - Full student management system for 20K+ students & faculty
 - Integrated LDAP for seamless cross-system authentication
 - Optimized database queries for 15% faster page loads
 - Built custom reporting and analytics dashboards
 
-`Laravel · MySQL · React · LDAP`
-
-</td>
-</tr>
-</table>
+> `Laravel · MySQL · React · LDAP`
 
 ---
 
-### Background
+## Background
 
 - **8+ years** as a Senior Software Engineer — currently at **Turkcell** (Northern Cyprus)
 - **Ph.D. Candidate** in Computer Engineering — researching blockchain systems
@@ -103,7 +77,7 @@ Comprehensive CRM for university administration, student management, and faculty
 
 ---
 
-### Tech stack
+## Tech Stack
 
 <div align="center">
 
@@ -128,7 +102,7 @@ Comprehensive CRM for university administration, student management, and faculty
 
 ---
 
-### GitHub stats
+## GitHub Stats
 
 <div align="center">
   <picture>
